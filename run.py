@@ -10,6 +10,8 @@ print('root_dir:::',root_dir)
 if __name__ == "__main__":
     #pytest.main(['-s'])
     # 执行pytest单元测试，生成 Allure 报告需要的数据存在 /temp 目录
+    #就回家回家还能
+    #test1
     #pytest.main(['--alluredir', file_path])
     pytest.main(['-s', '-v', '--alluredir', file_path, root_dir + '\\UiTest\\Testcase\\test_callmange'])
     #分布式执行
