@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Testcase.test_callmange",
+    "children" : [ {
+      "name" : "test_hd",
+      "children" : [ {
+        "name" : "TestCallRobot",
+        "children" : [ {
+          "name" : "外呼数据可查询",
+          "uid" : "29b78f578ae3dc06",
+          "parentUid" : "9452666ba10335a98fbcc2ba3aa6dcd8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629862234305,
+            "stop" : 1629862274121,
+            "duration" : 39816
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'共 1 条'", "18800000001", "'外呼数据可查询'" ]
+        }, {
+          "name" : "通话详情正常",
+          "uid" : "8a6f868516c8ac6c",
+          "parentUid" : "9452666ba10335a98fbcc2ba3aa6dcd8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629862281317,
+            "stop" : 1629862288319,
+            "duration" : 7002
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9452666ba10335a98fbcc2ba3aa6dcd8"
+      } ],
+      "uid" : "1cc16f505ef6d55facbce1c196328e62"
+    } ],
+    "uid" : "88798c48e715be4e0073a5b2752fbdd5"
+  } ]
+}

@@ -1,0 +1,21 @@
+[ {
+  "uid" : "29b78f578ae3dc06",
+  "name" : "外呼数据可查询",
+  "time" : {
+    "start" : 1629862234305,
+    "stop" : 1629862274121,
+    "duration" : 39816
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a6f868516c8ac6c",
+  "name" : "通话详情正常",
+  "time" : {
+    "start" : 1629862281317,
+    "stop" : 1629862288319,
+    "duration" : 7002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,47 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "外呼管理",
+    "children" : [ {
+      "name" : "活动管理",
+      "children" : [ {
+        "name" : "创建批次并启动",
+        "children" : [ {
+          "name" : "外呼数据可查询",
+          "uid" : "29b78f578ae3dc06",
+          "parentUid" : "84adeac5b426aac0fafaaf40324212ea",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629862234305,
+            "stop" : 1629862274121,
+            "duration" : 39816
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'共 1 条'", "18800000001", "'外呼数据可查询'" ]
+        } ],
+        "uid" : "84adeac5b426aac0fafaaf40324212ea"
+      }, {
+        "name" : "通话管理-通话详情",
+        "children" : [ {
+          "name" : "通话详情正常",
+          "uid" : "8a6f868516c8ac6c",
+          "parentUid" : "13f85fe44598067e657c1b2ee35ceb04",
+          "status" : "passed",
+          "time" : {
+            "start" : 1629862281317,
+            "stop" : 1629862288319,
+            "duration" : 7002
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "13f85fe44598067e657c1b2ee35ceb04"
+      } ],
+      "uid" : "72c7cd2d5f258c116783f03f2704b9ca"
+    } ],
+    "uid" : "0dde726aad7c1e621763e35cb99c891c"
+  } ]
+}

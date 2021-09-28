@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Testcase.test_callmange.test_hd",
+    "children" : [ {
+      "name" : "外呼数据可查询",
+      "uid" : "29b78f578ae3dc06",
+      "parentUid" : "76b5a7c9536502c1ff0612469fe81432",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629862234305,
+        "stop" : 1629862274121,
+        "duration" : 39816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'共 1 条'", "18800000001", "'外呼数据可查询'" ]
+    }, {
+      "name" : "通话详情正常",
+      "uid" : "8a6f868516c8ac6c",
+      "parentUid" : "76b5a7c9536502c1ff0612469fe81432",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629862281317,
+        "stop" : 1629862288319,
+        "duration" : 7002
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Testcase.test_callmange.test_hd"
+  } ]
+}

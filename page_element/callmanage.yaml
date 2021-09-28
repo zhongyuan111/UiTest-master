@@ -1,0 +1,30 @@
+外呼管理: "xpath==//span[2][contains(text(), '外呼管理')]"
+活动管理: "xpath==//span[contains(text(), '活动管理')]"
+编辑: "xpath==//*[@id='scroll']/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr/td[10]/div/button[1]/span"
+首页: "xpath==//*[@id='views']/section/section/header/div/div[1]/div[2]/div/div[1]/button/span/i"
+主页: "xpath==//li[1][contains(text(), '主页')]"
+
+批次: "xpath==/html/body/div[1]/div/div/section/section/main/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr/td[11]/div/button[2]/span"
+上传批次: "xpath==//span[contains(text(), '上传批次')]"
+逐条添加: "xpath==//span[@class='el-radio__label'][contains(text(), '逐条添加')]"
+批量添加: "xpath==//span[@class='el-radio__label'][contains(text(), '批量添加')]"
+电话号码: "xpath==//input[@class='el-input__inner'and @placeholder = '请输入参数值']"
+确定按钮: "xpath==//button[@class='el-button btn-text-2 el-button--primary el-button--mini']/span[contains(text(), '确定')]"
+关闭按钮: "xpath==//button[@class='el-button btn-text-2 el-button--primary el-button--mini']/span[contains(text(), '关闭')]"
+启动批次: "xpath==//*[@id='scroll']/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr/td[13]/div/button[3]/span"
+通话按钮: "xpath==//*[@id='scroll']/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr[1]/td[13]/div/button[6]/span"
+通话查询: "xpath==//div[2]/div[@class='pagination el-pagination is-background']/span[@class='el-pagination__total']"
+
+任务: "xpath==//*[@id='scroll']/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr/td[10]/div/button[3]/span"
+业务模板: "xpath==//*[@id='scroll']/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr/td[10]/div/button[4]/span"
+
+通话管理: "xpath==//span[@class='name'][contains(text(), '通话管理')]"
+活动查询: "xpath==//input[@class='el-input__inner' and @placeholder = '请选择活动']"
+活动选择: "xpath==//span[contains(text(), '自动化测试活动')]"
+批次查询: "xpath==//input[@class='el-input__inner' and @placeholder = '请选择批次']"
+批次选择: "xpath==/html/body/div[5]/div[1]/div[1]/ul/li[1]/span"
+搜索按钮: "xpath==//span[contains(text(), '搜索')]"
+通话管理详情: "xpath==//*[@id='scroll']/div/div[2]/div[1]/div/div[5]/div[2]/table/tbody/tr[1]/td[18]/div/button/span"
+详情状态: "xpath==//span[@class='el-tag el-tag--mini el-tag--light'][contains(text(),'已接通')]"
+
+

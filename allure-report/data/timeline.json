@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-J5QH2U1",
+    "children" : [ {
+      "name" : "34616-MainThread",
+      "children" : [ {
+        "name" : "外呼数据可查询",
+        "uid" : "29b78f578ae3dc06",
+        "parentUid" : "33579b43d5da976516cea1f164cc92cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629862234305,
+          "stop" : 1629862274121,
+          "duration" : 39816
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'共 1 条'", "18800000001", "'外呼数据可查询'" ]
+      }, {
+        "name" : "通话详情正常",
+        "uid" : "8a6f868516c8ac6c",
+        "parentUid" : "33579b43d5da976516cea1f164cc92cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629862281317,
+          "stop" : 1629862288319,
+          "duration" : 7002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "33579b43d5da976516cea1f164cc92cd"
+    } ],
+    "uid" : "80ec652bd9fbe832e475e6d370bc75fb"
+  } ]
+}
