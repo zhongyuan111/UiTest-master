@@ -15,6 +15,7 @@ def random_phone():
     #在unicode码中,汉字的范围是(0x4E00, 0x9fbf)
     second_name = chr(random.randint(0x4e00, 0x9fbf))
     print(second_name)
+    #####
 
 if __name__ == '__main__':
     random_phone()
